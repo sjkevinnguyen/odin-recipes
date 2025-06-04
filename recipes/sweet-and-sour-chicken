@@ -7,6 +7,39 @@
     <body>
         <h1>Sweet and Sour Chicken</h1>
 
+        <img src="../img/sweet-sour-chicken.jpg" alt="Sweet and Sour Chicken">
+
+        <h2>Description</h2>
+        <p>This sweet and sour chicken recipe makes crispy fried chicken pieces with pineapple and bell pepper served with a homemade tangy and sweet sauce.
+            Make restaurant-worthy sweet and sour chicken from scratch in the comfort of your own home with this top-rated recipe.
+        </p>
+
+        <h2>Ingredients</h2>
+            <ul>
+                <li>1 3/4 cups water, divided</li>
+                <li>1 (8 ounce) can pineapple, drained (juice reserved)</li>
+                <li>3/4 cups white sugar</li>
+                <li>1/2 cup white distilled vinegar</li>
+                <li>2 drops orange food coloring</li>
+                <li>1/4 cups cornstarch</li>
+                <li>2 1/4 cups self-rising flour</li>
+                <li>2 tablespoons vegetable oil</li>
+                <li>2 tablespoons cornstarch</li>
+                <li>1 large egg</li>
+                <li>1/2 teaspoon salt</li>
+                <li>1/4 teaspoon ground white pepper</li>
+                <li>1 1/2 cups water</li>
+                <li>8 skinless, boneless chicken breast halves - cut into 1 inch cubes</li>
+                <li>1 quart vegetable oil for frying</li>
+                <li>2 green bell pepper, cut into 1-inch pieces</li>
+            </ul>
+
+        <h2>Steps</h2>
+            <ol>
+
+            </ol>
+
         <a href="../index.hmtl">Homepage</a>
+
     </body>
 <html>
